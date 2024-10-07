@@ -19,3 +19,6 @@ h2 {
 p {
     color: whitesmoke;
 }
+@-ms-viewport {
+    width: device-width;
+}
